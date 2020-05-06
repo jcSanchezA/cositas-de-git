@@ -15,3 +15,6 @@ Esta es una tarea de Laboratorio de Métodos Computacionales
 # Acerca del autor 
 
 Juan Camilo Sanchez nacio en Bogota en 1998. Estudia Geociencias e Ingenieria Civil. Le gusta jugar futbol. 
+
+# Acerca del colaborador
+César Bucheli nació en Neiva en 1998. Estudia Geociencias e Ingeniería Química. 
