@@ -14,4 +14,4 @@ Esta es una tarea de Laboratorio de Métodos Computacionales
 
 # Acerca del autor 
 
-Juan Camilo Sanchez nacio en Bogota en 1998. Estudia Geociencias e Ingenieria Civi. Le gusta jugar futbol. 
+Juan Camilo Sanchez nacio en Bogota en 1998. Estudia Geociencias e Ingenieria Civil. Le gusta jugar futbol. 
